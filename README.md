@@ -1,2 +1,2 @@
-# cpp_labs
-Здесь представлены мои лабораторные работы на языке C++, выполненные во время 1 и 2 семестра 
+# My c++ projects
+Here are some of my c++ projects I had been implementing during first and second semester of studying Software Engineering at the ITMO University.
